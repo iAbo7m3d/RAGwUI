@@ -1,0 +1,6 @@
+streamlit
+openai
+sentence-transformers
+transformers
+torch
+pinecone
